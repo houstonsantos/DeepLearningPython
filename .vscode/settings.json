@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "venv/bin/python3"
+    "python.pythonPath": "venv/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "git.ignoreLimitWarning": true
 }
